@@ -30,7 +30,7 @@ Tetranucleotide,8,21
 Tetranucleotide,9,8
 Tetranucleotide,10,3
 Tetranucleotide,11,8
-Tetranucleotide,£¾=12,11
+Tetranucleotide,>=12,11
 Pentanucleotide,5,116
 Pentanucleotide,6,35
 Pentanucleotide,7,11
@@ -38,7 +38,7 @@ Pentanucleotide,8,16
 Pentanucleotide,9,10
 Pentanucleotide,10,8
 Pentanucleotide,11,11
-Pentanucleotide,£¾=12,31
+Pentanucleotide,>=12,31
 Hexanucleotide,5,23
 Hexanucleotide,6,14
 Hexanucleotide,7,11
@@ -46,4 +46,4 @@ Hexanucleotide,8,17
 Hexanucleotide,9,16
 Hexanucleotide,10,63
 Hexanucleotide,11,0
-Hexanucleotide,£¾=12,0
+Hexanucleotide,>=12,0
