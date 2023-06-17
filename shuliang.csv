@@ -6,7 +6,7 @@ Mononucleotide,8,0
 Mononucleotide,9,0
 Mononucleotide,10,66485
 Mononucleotide,11,18495
-Mononucleotide,£¾=12,19528
+Mononucleotide,>=12,19528
 Dinucleotide,5,0
 Dinucleotide,6,3313
 Dinucleotide,7,1664
@@ -14,7 +14,7 @@ Dinucleotide,8,1047
 Dinucleotide,9,701
 Dinucleotide,10,381
 Dinucleotide,11,235
-Dinucleotide,£¾=12,2499
+Dinucleotide,>=12,2499
 Trinucleotide,5,3764
 Trinucleotide,6,1287
 Trinucleotide,7,470
@@ -22,7 +22,7 @@ Trinucleotide,8,229
 Trinucleotide,9,97
 Trinucleotide,10,58
 Trinucleotide,11,29
-Trinucleotide,£¾=12,202
+Trinucleotide,>=12,202
 Tetranucleotide,5,622
 Tetranucleotide,6,156
 Tetranucleotide,7,55
